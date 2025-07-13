@@ -1,2 +1,2 @@
-# Hackthon
+# Hackathon
 API
